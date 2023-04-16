@@ -33,12 +33,12 @@ body {
 
 .red-brown {
   background-color: #A52A2A;
-  color: #000;
+  color: #fff;
 }
 
-.wheat {
-  background-color: ##F5DEB3;
-  color: #fff;
+.desert {
+  background-color: #FAD5A5;
+  color: #000;
 }
 
 .font-panel {
@@ -78,6 +78,21 @@ body {
 .text-panel h1 {
   font-weight: 700;
   font-size: 32px;
+  font-family: 'Sono', sans-serif;
+}
+
+.text-panel h2 {
+  font-weight: 500;
+  font-size: 18px;
+  font-family: 'Space-mono', monospace;
+}
+
+.text-panel p {
+  font-weight: 400;
+  font-size: 14px;
+  font-family: 'Space-mono', monospace;
+}
+
   font-family: 'Sono', sans-serif;
 }
 
